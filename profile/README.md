@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2023/08/DisplayBuddy-system.jpg?quality=82&strip=all" alt="DisplayBuddy — external display control for macOS" width="780"/></p>
+<p align="center"><img src="https://cdn.macstories.net/001/2019-01-29-09-32-24.png" alt="DisplayBuddy — external display control for macOS" width="780"/></p>
 
 ---
 
